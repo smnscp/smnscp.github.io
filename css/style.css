@@ -524,8 +524,6 @@ pre { background: var(--base00); color: var(--base07) }
 .highlight .vg { color: var(--base08) } /* Name.Variable.Global */
 .highlight .vi { color: var(--base08) } /* Name.Variable.Instance */
 .highlight .il { color: var(--base09) } /* Literal.Number.Integer.Long */
-h1.site-title a { text-decoration: none; }
-
 .prism :nth-child(7n + 1) { color: var(--base08) }
 .prism :nth-child(7n + 2) { color: var(--base09) }
 .prism :nth-child(7n + 3) { color: var(--base0a) }
@@ -533,7 +531,6 @@ h1.site-title a { text-decoration: none; }
 .prism :nth-child(7n + 5) { color: var(--base0c) }
 .prism :nth-child(7n + 6) { color: var(--base0d) }
 .prism :nth-child(7n + 7) { color: var(--base0e) }
-
 
 .homepage h1.site-title {
   background: url('/img/logo.svg');
