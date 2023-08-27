@@ -1,0 +1,22 @@
+/**
+ * Scheme: Base16 Cupcake
+ * Author: Chris Kempson (http://chriskempson.com)
+ */
+:root {
+  --color-base00: #585062;
+  --color-base01: #72677E;
+  --color-base02: #8b8198;
+  --color-base03: #a59daf;
+  --color-base04: #bfb9c6;
+  --color-base05: #d8d5dd;
+  --color-base06: #f2f1f4;
+  --color-base07: #fbf1f2;
+  --color-base08: #D57E85;
+  --color-base09: #EBB790;
+  --color-base0a: #DCB16C;
+  --color-base0b: #A3B367;
+  --color-base0c: #69A9A7;
+  --color-base0d: #7297B9;
+  --color-base0e: #BB99B4;
+  --color-base0f: #BAA58C;
+}

@@ -1,0 +1,87 @@
+.hljs {
+  color: var(---clr-fg);
+  background: var(---clr-bg);
+}
+.hljs ::selection,
+.hljs::selection {
+  background-color: var(--color-theme02);
+  color: var(--color-theme05);
+}
+.hljs-comment {
+  color: var(--color-theme03);
+}
+.hljs-tag {
+  color: var(--color-theme04);
+}
+.hljs-operator,
+.hljs-punctuation,
+.hljs-subst {
+  color: var(--color-theme05);
+}
+.hljs-operator {
+  opacity: 0.7;
+}
+.hljs-bullet,
+.hljs-deletion,
+.hljs-name,
+.hljs-selector-tag,
+.hljs-template-variable,
+.hljs-variable {
+  color: var(--color-base08);
+}
+.hljs-attr,
+.hljs-link,
+.hljs-literal,
+.hljs-number,
+.hljs-symbol,
+.hljs-variable.constant_ {
+  color: var(--color-base09);
+}
+.hljs-class .hljs-title,
+.hljs-title,
+.hljs-title.class_ {
+  color: var(--color-base0a);
+}
+.hljs-strong {
+  font-weight: 700;
+  color: var(--color-base0a);
+}
+.hljs-addition,
+.hljs-code,
+.hljs-string,
+.hljs-title.class_.inherited__ {
+  color: var(--color-base0b);
+}
+.hljs-built_in,
+.hljs-doctag,
+.hljs-keyword.hljs-atrule,
+.hljs-quote,
+.hljs-regexp {
+  color: var(--color-base0c);
+}
+.hljs-attribute,
+.hljs-function .hljs-title,
+.hljs-section,
+.hljs-title.function_,
+.ruby .hljs-property {
+  color: var(--color-base0d);
+}
+.diff .hljs-meta,
+.hljs-keyword,
+.hljs-template-tag,
+.hljs-type {
+  color: var(--color-base0e);
+}
+.hljs-emphasis {
+  color: var(--color-base0e);
+  font-style: italic;
+}
+.hljs-meta,
+.hljs-meta .hljs-keyword,
+.hljs-meta .hljs-string {
+  color: var(--color-base0f);
+}
+.hljs-meta .hljs-keyword,
+.hljs-meta-keyword {
+  font-weight: 700;
+}

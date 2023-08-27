@@ -1,0 +1,22 @@
+/**
+ * Scheme: Atelier Seaside
+ * Author: Bram de Haan (http://atelierbramdehaan.nl)
+ */
+:root {
+  --color-base00: #131513;
+  --color-base01: #242924;
+  --color-base02: #5e6e5e;
+  --color-base03: #687d68;
+  --color-base04: #809980;
+  --color-base05: #8ca68c;
+  --color-base06: #cfe8cf;
+  --color-base07: #f4fbf4;
+  --color-base08: #e6193c;
+  --color-base09: #87711d;
+  --color-base0a: #98981b;
+  --color-base0b: #29a329;
+  --color-base0c: #1999b3;
+  --color-base0d: #3d62f5;
+  --color-base0e: #ad2bee;
+  --color-base0f: #e619c3;
+}

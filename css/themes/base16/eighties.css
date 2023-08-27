@@ -1,0 +1,22 @@
+/**
+ * Scheme: Base16 Eighties
+ * Author: Chris Kempson (http://chriskempson.com)
+ */
+:root {
+  --color-base00: #2d2d2d;
+  --color-base01: #393939;
+  --color-base02: #515151;
+  --color-base03: #747369;
+  --color-base04: #a09f93;
+  --color-base05: #d3d0c8;
+  --color-base06: #e8e6df;
+  --color-base07: #f2f0ec;
+  --color-base08: #f2777a;
+  --color-base09: #f99157;
+  --color-base0a: #ffcc66;
+  --color-base0b: #99cc99;
+  --color-base0c: #66cccc;
+  --color-base0d: #6699cc;
+  --color-base0e: #cc99cc;
+  --color-base0f: #d27b53;
+}

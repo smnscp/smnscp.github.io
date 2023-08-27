@@ -1,0 +1,22 @@
+/**
+ * Scheme: Atelier Plateau
+ * Author: Bram de Haan (http://atelierbramdehaan.nl)
+ */
+:root {
+  --color-base00: #1b1818;
+  --color-base01: #292424;
+  --color-base02: #585050;
+  --color-base03: #655d5d;
+  --color-base04: #7e7777;
+  --color-base05: #8a8585;
+  --color-base06: #e7dfdf;
+  --color-base07: #f4ecec;
+  --color-base08: #ca4949;
+  --color-base09: #b45a3c;
+  --color-base0a: #a06e3b;
+  --color-base0b: #4b8b8b;
+  --color-base0c: #5485b6;
+  --color-base0d: #7272ca;
+  --color-base0e: #8464c4;
+  --color-base0f: #bd5187;
+}

@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>similitude</title>
-    <link>http://example.org/</link>
-    <description>Recent content on similitude</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jun 2021 22:10:50 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World!</title>
-      <link>http://example.org/posts/hello-world/</link>
-      <pubDate>Fri, 11 Jun 2021 22:10:50 +0200</pubDate>
-      
-      <guid>http://example.org/posts/hello-world/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>similitude</title><link>https://sim.ilitu.de/</link><description>Recent content on similitude</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 04 Apr 2023 18:42:08 +0200</lastBuildDate><atom:link href="https://sim.ilitu.de/index.xml" rel="self" type="application/rss+xml"/><item><title>All the Same</title><link>https://sim.ilitu.de/posts/2023/04/all-the-same/</link><pubDate>Tue, 04 Apr 2023 18:42:08 +0200</pubDate><guid>https://sim.ilitu.de/posts/2023/04/all-the-same/</guid><description>Short note on why I’m blogging (and why probably everybody who’s publishing something in any way is doing so): We are all the same. We want recognition. We want our point of view to matter. We want the world to realize we’re smart, cool, special. But we ain’t special. We’re all the same.
+Der Gedanke traf mich wie ein Blitz
+Das ganze Leben ist nur ein Witz
+Und alles, was wir so anstelln, um anders zu sein</description></item><item><title>Overcoming Code Format Disputes</title><link>https://sim.ilitu.de/posts/2023/04/overcoming-code-format-disputes/</link><pubDate>Mon, 03 Apr 2023 19:38:58 +0200</pubDate><guid>https://sim.ilitu.de/posts/2023/04/overcoming-code-format-disputes/</guid><description>Superficially, this article is just about coding style “Grabenkämpfe”1. At its core, though, it goes into breaking the circle, understanding your counterpart, being honest about own misconceptions, finding real, constructive middle ground. On a meta-level, we might even take away inspiration for solving everyday life conflicts beyond code style bike-shedding.
+Dare You Question My Style! A while ago, a colleague of mine challenged my habit to hard-break long lines of prose in Markdown files.</description></item><item><title>Nennen wir es “Frühlingslied”</title><link>https://sim.ilitu.de/posts/2023/03/nennen-wir-es-fruhlingslied/</link><pubDate>Mon, 20 Mar 2023 22:24:00 +0100</pubDate><guid>https://sim.ilitu.de/posts/2023/03/nennen-wir-es-fruhlingslied/</guid><description>Spring equinox is here. Mascha Kaléko wrote a wonderful poem: “Nennen wir es: ‘Frühlingslied’”. When I read it for the first time a couple of years ago I immediately heard this melody inside:
+Nennen wir es: “Frühlingslied” In das Dunkel dieser alten, kalten
+Tage fällt das erste Sonnenlicht.
+Und mein dummes Herz blüht auf, als wüsst’ es nicht:
+Auch der schönste Frühling kann nicht halten,
+was der werdende April verspricht.</description></item><item><title>The Most Natural Branching Model</title><link>https://sim.ilitu.de/posts/2023/03/the-most-natural-branching-model/</link><pubDate>Wed, 08 Mar 2023 16:27:55 +0100</pubDate><guid>https://sim.ilitu.de/posts/2023/03/the-most-natural-branching-model/</guid><description>This is about an argument I’ve had several times in my professional life as a software developer. To my mind the topic is pretty basic, no rocket science at all1. It’s about branching in version control. And there’s plenty of articles and documentation out there discussing that basic topic and describing best practices.2 So, I won’t make any claim that I could add essential new thoughts to it. But since that discussion keeps popping up every now and then I’ll write down my take on it and some observations and learnings just for later reference.</description></item><item><title>“Böllerfreiheit”</title><link>https://sim.ilitu.de/posts/2023/01/bollerfreiheit/</link><pubDate>Mon, 02 Jan 2023 19:19:58 +0100</pubDate><guid>https://sim.ilitu.de/posts/2023/01/bollerfreiheit/</guid><description>&lt;p>&lt;strong>Böllerdebatte:&lt;/strong> Berlins CDU-Chef Kai Wegner will “nicht […] den Familien diese Tradition
+nehmen”. Hier wird deutlich, worauf sich
+&lt;a href="https://de.wikipedia.org/wiki/Konservatismus">Konservativismus&lt;/a> bei unseren sogenannten
+Christ-Demokraten bezieht: Die Aufrechterhaltung
+&lt;a href="https://de.wikipedia.org/wiki/Feuerwerk#Gesellschaftliche_und_politische_Funktionen_von_Feuerwerk">völlig überholten und unzeitgemäßen Brauchtums&lt;/a>,
+nicht jedoch die Bewahrung der Schöpfung, der Gesundheit, des Gemeinwohls.&lt;/p></description></item><item><title>Hello World (2nd edition)</title><link>https://sim.ilitu.de/posts/2023/01/hello-world-2nd-edition/</link><pubDate>Sun, 01 Jan 2023 18:54:32 +0100</pubDate><guid>https://sim.ilitu.de/posts/2023/01/hello-world-2nd-edition/</guid><description>Hello world! As I said before this is my blog. I still intend to fill it with content. And this time I’m playing for keeps. Promise! I’ve prepared a lot to make it the website I like to post on. And in the pipeline I have quite some drafts and topics to be published.
+That being said: Happy 2023, everyone!</description></item><item><title>About</title><link>https://sim.ilitu.de/pages/about/</link><pubDate>Fri, 30 Dec 2022 00:00:00 +0100</pubDate><guid>https://sim.ilitu.de/pages/about/</guid><description>sim.ilitu.de is my homebase on the internet, an old-school personal website, a shiny-new piece of IndieWeb.
+Who Am I? My name is Simon Schrape. I am a Berlin-based web developer and musician.
+Why “similitude”? The word similitude means similarity in multiple aspects of an engineering model. I like the idea of my personal website being an image of myself (to some degree). Last but not least I love domain names that read as one word when ignoring the dots (and the hierarchy of DNS).</description></item><item><title>Have Yourself a Merry Little Christmas</title><link>https://sim.ilitu.de/posts/2022/12/have-yourself-a-merry-little-christmas/</link><pubDate>Sat, 24 Dec 2022 10:48:44 +0100</pubDate><guid>https://sim.ilitu.de/posts/2022/12/have-yourself-a-merry-little-christmas/</guid><description>This one’s been a tough year. Nothing more to say. But this:</description></item><item><title>Hello World!</title><link>https://sim.ilitu.de/posts/2022/02/hello-world/</link><pubDate>Thu, 03 Feb 2022 22:22:23 +0100</pubDate><guid>https://sim.ilitu.de/posts/2022/02/hello-world/</guid><description>Here’s my blog. Let me share some thoughts with you. This, of course, is but a placeholder. To prove this I type: lorem⟼
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description></item></channel></rss>

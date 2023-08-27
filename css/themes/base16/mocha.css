@@ -1,0 +1,22 @@
+/**
+ * Scheme: Base16 Mocha
+ * Author: Chris Kempson (http://chriskempson.com)
+ */
+:root {
+  --color-base00: #3B3228;
+  --color-base01: #534636;
+  --color-base02: #645240;
+  --color-base03: #7e705a;
+  --color-base04: #b8afad;
+  --color-base05: #d0c8c6;
+  --color-base06: #e9e1dd;
+  --color-base07: #f5eeeb;
+  --color-base08: #cb6077;
+  --color-base09: #d28b71;
+  --color-base0a: #f4bc87;
+  --color-base0b: #beb55b;
+  --color-base0c: #7bbda4;
+  --color-base0d: #8ab3b5;
+  --color-base0e: #a89bb9;
+  --color-base0f: #bb9584;
+}

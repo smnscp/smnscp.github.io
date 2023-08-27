@@ -1,0 +1,25 @@
+/**
+ * Scheme: Atlas
+ * Author: Alex Lende (https://ajlende.com)
+ */
+:root {
+  --color-base00: #002635;
+  --color-base01: #00384d;
+  --color-base02: #517F8D;
+  --color-base03: #6C8B91;
+  --color-base04: #869696;
+  --color-base05: #a1a19a;
+  --color-base06: #e6e6dc;
+  --color-base07: #fafaf8;
+  --color-base08: #ff5a67;
+  --color-base09: #f08e48;
+  --color-base0a: #ffcc1b;
+  --color-base0b: #7fc06e;
+  --color-base0c: #5dd7b9;
+  --color-base0d: #14747e;
+  --color-base0e: #9a70a4;
+  --color-base0f: #c43060;
+  --🌶️-color-body: var(--🌶️-color-theme04);
+  --🌶️-color-neutral: var(--🌶️-color-theme03);
+  --🌶️-color-alternate: var(--🌶️-color-theme05);
+}

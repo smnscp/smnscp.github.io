@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://example.org/posts/hello-world/</loc>
-    <lastmod>2021-06-11T22:10:50+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2021-06-11T22:10:50+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2021-06-11T22:10:50+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://sim.ilitu.de/posts/2023/04/all-the-same/</loc><lastmod>2023-04-04T18:42:08+02:00</lastmod></url><url><loc>https://sim.ilitu.de/categories/</loc><lastmod>2023-04-04T18:42:08+02:00</lastmod></url><url><loc>https://sim.ilitu.de/categories/meta/</loc><lastmod>2023-04-04T18:42:08+02:00</lastmod></url><url><loc>https://sim.ilitu.de/posts/</loc><lastmod>2023-04-04T18:42:08+02:00</lastmod></url><url><loc>https://sim.ilitu.de/</loc><lastmod>2023-04-04T18:42:08+02:00</lastmod></url><url><loc>https://sim.ilitu.de/categories/code/</loc><lastmod>2023-04-04T08:16:15+01:00</lastmod></url><url><loc>https://sim.ilitu.de/posts/2023/04/overcoming-code-format-disputes/</loc><lastmod>2023-04-04T08:16:15+01:00</lastmod></url><url><loc>https://sim.ilitu.de/posts/2023/03/nennen-wir-es-fruhlingslied/</loc><lastmod>2023-03-20T22:24:00+01:00</lastmod></url><url><loc>https://sim.ilitu.de/tags/seasons/</loc><lastmod>2023-03-20T22:24:00+01:00</lastmod></url><url><loc>https://sim.ilitu.de/tags/songs/</loc><lastmod>2023-03-20T22:24:00+01:00</lastmod></url><url><loc>https://sim.ilitu.de/tags/</loc><lastmod>2023-03-20T22:24:00+01:00</lastmod></url><url><loc>https://sim.ilitu.de/posts/2023/03/the-most-natural-branching-model/</loc><lastmod>2023-03-08T16:27:55+01:00</lastmod></url><url><loc>https://sim.ilitu.de/posts/2023/01/bollerfreiheit/</loc><lastmod>2023-03-10T18:04:15+01:00</lastmod></url><url><loc>https://sim.ilitu.de/categories/politics/</loc><lastmod>2023-03-10T18:04:15+01:00</lastmod></url><url><loc>https://sim.ilitu.de/posts/2023/01/hello-world-2nd-edition/</loc><lastmod>2023-01-01T18:54:32+01:00</lastmod></url><url><loc>https://sim.ilitu.de/tags/meta/</loc><lastmod>2023-01-01T18:54:32+01:00</lastmod></url><url><loc>https://sim.ilitu.de/pages/about/</loc><lastmod>2022-12-30T00:00:00+01:00</lastmod></url><url><loc>https://sim.ilitu.de/pages/</loc><lastmod>2022-12-30T00:00:00+01:00</lastmod></url><url><loc>https://sim.ilitu.de/tags/christmas/</loc><lastmod>2022-12-24T10:48:44+01:00</lastmod></url><url><loc>https://sim.ilitu.de/posts/2022/12/have-yourself-a-merry-little-christmas/</loc><lastmod>2022-12-24T10:48:44+01:00</lastmod></url><url><loc>https://sim.ilitu.de/posts/2022/02/hello-world/</loc><lastmod>2022-02-03T22:22:23+01:00</lastmod></url><url><loc>https://sim.ilitu.de/tags/lorem-ipsum/</loc><lastmod>2022-02-03T22:22:23+01:00</lastmod></url></urlset>

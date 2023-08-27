@@ -1,0 +1,22 @@
+/**
+ * Scheme: Atelier Dune
+ * Author: Bram de Haan (http://atelierbramdehaan.nl)
+ */
+:root {
+  --color-base00: #20201d;
+  --color-base01: #292824;
+  --color-base02: #6e6b5e;
+  --color-base03: #7d7a68;
+  --color-base04: #999580;
+  --color-base05: #a6a28c;
+  --color-base06: #e8e4cf;
+  --color-base07: #fefbec;
+  --color-base08: #d73737;
+  --color-base09: #b65611;
+  --color-base0a: #ae9513;
+  --color-base0b: #60ac39;
+  --color-base0c: #1fad83;
+  --color-base0d: #6684e1;
+  --color-base0e: #b854d4;
+  --color-base0f: #d43552;
+}

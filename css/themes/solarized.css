@@ -1,0 +1,25 @@
+/**
+ * Scheme: Solarized
+ * Author: Ethan Schoonover (https://ethanschoonover.com/solarized/)
+ */
+:root {
+  --color-base00: #002b36;
+  --color-base01: #073642;
+  --color-base02: #586e75;
+  --color-base03: #657b83;
+  --color-base04: #839496;
+  --color-base05: #93a1a1;
+  --color-base06: #eee8d5;
+  --color-base07: #fdf6e3;
+  --color-base08: #dc322f;
+  --color-base09: #cb4b16;
+  --color-base0a: #b58900;
+  --color-base0b: #859900;
+  --color-base0c: #2aa198;
+  --color-base0d: #268bd2;
+  --color-base0e: #6c71c4;
+  --color-base0f: #d33682;
+  --🌶️-color-body: var(--🌶️-color-theme03);
+  --🌶️-color-neutral: var(--🌶️-color-theme02);
+  --🌶️-color-alternate: var(--🌶️-color-theme04);
+}

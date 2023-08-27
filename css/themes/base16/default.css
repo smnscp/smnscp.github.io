@@ -1,0 +1,22 @@
+/**
+ * Scheme: Base16 Default
+ * Author: Chris Kempson (http://chriskempson.com)
+ */
+:root {
+  --color-base00: #181818;
+  --color-base01: #282828;
+  --color-base02: #383838;
+  --color-base03: #585858;
+  --color-base04: #b8b8b8;
+  --color-base05: #d8d8d8;
+  --color-base06: #e8e8e8;
+  --color-base07: #f8f8f8;
+  --color-base08: #ab4642;
+  --color-base09: #dc9656;
+  --color-base0a: #f7ca88;
+  --color-base0b: #a1b56c;
+  --color-base0c: #86c1b9;
+  --color-base0d: #7cafc2;
+  --color-base0e: #ba8baf;
+  --color-base0f: #a16946;
+}
